@@ -1052,7 +1052,7 @@ GameObject:
   - component: {fileID: 8297289229595695867}
   - component: {fileID: 804785651033077146}
   m_Layer: 0
-  m_Name: PreBuilding 1
+  m_Name: ShedBuilding
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
