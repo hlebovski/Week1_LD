@@ -128,7 +128,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3019879195037553845}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3019879194259073374
 MeshFilter:
@@ -595,7 +595,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3019879195037553845}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3019879194910339060
 MeshFilter:
@@ -678,12 +678,12 @@ Transform:
   - {fileID: 3530239081263929382}
   - {fileID: 5270912510821615982}
   - {fileID: 1438616645414563473}
+  - {fileID: 1438616646506630255}
   - {fileID: 3019879195131836816}
   - {fileID: 3019879195515543576}
   - {fileID: 3019879194910339062}
   - {fileID: 3019879195768888272}
   - {fileID: 3019879194259073368}
-  - {fileID: 1438616646506630255}
   - {fileID: 3019879194735532111}
   - {fileID: 3019879194079184859}
   - {fileID: 3019879195954622532}
@@ -778,7 +778,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3019879195037553845}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3019879195131836822
 MeshFilter:
@@ -944,7 +944,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3019879195037553845}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3019879195515543582
 MeshFilter:
@@ -1200,7 +1200,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3019879195037553845}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3019879195768888278
 MeshFilter:
@@ -1566,7 +1566,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4774414283400213295, guid: f7cac19df6b52b94bb5d7bd38a1ead12, type: 3}
       propertyPath: m_Name
-      value: ArchArab 1
+      value: ArchArab Big
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7cac19df6b52b94bb5d7bd38a1ead12, type: 3}
@@ -1650,7 +1650,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4187848574347606121, guid: f7cac19df6b52b94bb5d7bd38a1ead12, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4187848574347606121, guid: f7cac19df6b52b94bb5d7bd38a1ead12, type: 3}
       propertyPath: m_LocalScale.x
@@ -1706,7 +1706,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4774414283400213295, guid: f7cac19df6b52b94bb5d7bd38a1ead12, type: 3}
       propertyPath: m_Name
-      value: ArchArab 1 (1)
+      value: ArchArab Big 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7cac19df6b52b94bb5d7bd38a1ead12, type: 3}

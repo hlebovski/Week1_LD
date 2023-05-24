@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 2053957630698747386}
   - component: {fileID: 3023839637958684591}
   m_Layer: 0
-  m_Name: Domino Black
+  m_Name: Domino
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
